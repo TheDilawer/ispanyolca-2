@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed242147-ba5a-4977-899a-8f81969cd1af" name="Lama" url="http://lamabilisim.com/ispanyolca">
+        <fileTransfer host="lamabilisim.com" port="21" rootFolder="/public_html/ispanyolca">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
